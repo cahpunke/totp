@@ -6,3 +6,6 @@ if (!isset($_SESSION['user_id'])) {
 }
 
 echo "Selamat datang di aplikasi!";
+?>
+
+<p><a href="login.php">Login</a></p>
